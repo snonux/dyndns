@@ -1,3 +1,7 @@
+DEPRECATED
+    This project is no longer maintained. No further updates, bug fixes, or
+    feature additions will be made. Use at your own risk.
+
 dyndns updater
 ==============
 
